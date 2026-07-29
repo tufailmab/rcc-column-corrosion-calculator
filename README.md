@@ -2,6 +2,13 @@
 
 **Column Rust Calculator** is a Python-based GUI tool for analyzing corrosion (rusting) effects on RCC (Reinforced Cement Concrete) column reinforcement bars and ties. The tool calculates yield strength reduction, cross-sectional area loss, and regional corrosion distribution along column height, with visual profile graphs.
 
+<p>
+  <strong>Cite this Tool:</strong>
+  <a href="https://doi.org/10.5281/zenodo.21669917">
+    <img src="https://img.shields.io/badge/DOI-10.5281/zenodo.21669917-blue" alt="DOI">
+  </a>
+</p>
+
 ## Project Overview
 
 In structural engineering, rusting of reinforcement bars is a critical factor affecting the durability and safety of RCC columns. Assessing the extent of corrosion and its impact on structural capacity requires systematic analysis of various rust levels and their distribution along the column height. This tool automates the rust assessment process by providing a user-friendly interface for structural engineers to quickly evaluate corrosion effects without complex calculations.
