@@ -15,6 +15,14 @@ In structural engineering, rusting of reinforcement bars is a critical factor af
 
 The tool implements standard rust formulas and random bar assignment to simulate realistic rust patterns, making it valuable for parametric studies and structural health assessment.
 
+The following diagram illustrates the step-by-step workflow of the RCC Column Corrosion Calculator, from user inputs to the final results and visualization.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tufailmab/RCC-Column-Corrosion-Calculator/main/Conceptual%20Workflow.png" alt="Conceptual Workflow of the RCC Column Corrosion Calculator">
+  <br>
+  <em>Conceptual workflow diagram showing the main calculation and visualization steps.</em>
+</p>
+
 ## Workflow Integration
 
 This tool is designed for standalone use in structural assessment workflows. It can be used alongside other structural analysis tools to evaluate column deterioration. The generated results can be used for:
