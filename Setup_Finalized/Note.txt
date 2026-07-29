@@ -1,0 +1,9 @@
+# Installation Instructions
+
+1. Extract "Column Rust Calculator.7z" using the password: "03440907874".
+2. Copy the "Column Rust Calculator" folder to your desired drive.
+3. Do not delete the "_internal" folder.
+4. Create a desktop shortcut for "Column Rust Calculator.exe".
+5. Launch the application using the shortcut.
+
+Enjoy!
