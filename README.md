@@ -11,7 +11,13 @@
 
 ## Project Overview
 
-In structural engineering, rusting of reinforcement bars is a critical factor affecting the durability and safety of RCC columns. Assessing the extent of corrosion and its impact on structural capacity requires systematic analysis of various rust levels and their distribution along the column height. This tool automates the rust assessment process by providing a user-friendly interface for structural engineers to quickly evaluate corrosion effects without complex calculations.
+In structural engineering, rusting of reinforcement bars is a critical factor affecting the durability and safety of RCC columns. Assessing the extent of corrosion and its impact on structural capacity requires systematic analysis of various rust levels and their distribution along the column height. This tool automates the rust assessment process by providing a user-friendly interface for structural engineers to quickly evaluate corrosion effects without complex calculations. For a complete demonstration of the features and setup, see the video below:
+
+<div align="center">
+
+[![Project Demo](https://img.youtube.com/vi/8TmJJth8Uik/0.jpg)](https://www.youtube.com/watch?v=8TmJJth8Uik)
+
+</div>
 
 The tool implements standard rust formulas and random bar assignment to simulate realistic rust patterns, making it valuable for parametric studies and structural health assessment.
 
